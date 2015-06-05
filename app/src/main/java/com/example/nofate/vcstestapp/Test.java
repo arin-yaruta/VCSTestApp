@@ -19,6 +19,7 @@ public class Test {
     public void testMethod2() {
         String abc = "abc";
         int a = 10;
+        int b = 20;
     }
 
 }
