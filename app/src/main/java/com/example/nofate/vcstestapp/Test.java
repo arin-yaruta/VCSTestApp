@@ -9,4 +9,11 @@ public class Test {
 
     private String b = "b";
 
+
+    public void testMethod() {
+
+        String c = a + b;
+
+    }
+
 }
