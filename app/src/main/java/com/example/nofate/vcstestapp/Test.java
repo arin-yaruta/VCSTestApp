@@ -16,4 +16,10 @@ public class Test {
 
     }
 
+    public void testMethod() {
+
+        String d = a + "bcdefg";
+
+    }
+
 }
