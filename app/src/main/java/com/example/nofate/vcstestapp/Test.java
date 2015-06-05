@@ -5,6 +5,8 @@ package com.example.nofate.vcstestapp;
  */
 public class Test {
 
+    private String a = "a";
+
     private String b = "b";
 
 }
